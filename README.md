@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hedaetul Islam - Web Developer Portfolio
+
+## About Me
+
+Hi there! I'm Hedaetul Islam, a skilled web developer specializing in front-end technologies. With expertise in HTML, CSS, Tailwind, React, Next.js, ChakraUI, ShadCdnUi, and MUI, I excel at creating modern, responsive, and user-friendly web interfaces.
+
+My proficiency with GitHub ensures effective collaboration and version control. I am passionate about leveraging my skills to deliver high-quality, innovative web solutions and continuously learning to stay updated with the latest industry trends.
+
+🌱 I'm currently learning Express.js
+
+## Project Overview
+
+This project is my personal portfolio website built with Next.js and styled using Tailwind CSS. It showcases my skills, projects, and provides a way for potential clients or employers to get in touch with me.
+
+## Features
+
+- Responsive design
+- Interactive sections: Home, About, Blog, and Contact
+- Dynamic content rendering
+- Contact form with validation
+- Smooth scrolling navigation
+
+## Technologies Used
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- React Hook Form
+- Zod (for form validation)
+- React Icons
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+   ```
+   pnpm install
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+   ```
+   pnpm dev
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Learn More
+## Scripts
 
-To learn more about Next.js, take a look at the following resources:
+- `pnpm dev`: Runs the app in development mode
+- `pnpm build`: Builds the app for production
+- `pnpm start`: Runs the built app in production mode
+- `pnpm lint`: Runs the linter to check for code style issues
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- `app/`: Contains the main application code
+  - `components/`: Reusable React components
+  - `page.tsx`: Main page component
+  - `layout.tsx`: Root layout component
+- `public/`: Static assets
+- `styles/`: Global styles and Tailwind CSS configuration
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is ready to be deployed on Vercel. For more information on deploying Next.js apps, check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Contact
+
+Feel free to reach out to me for any inquiries or collaboration opportunities:
+
+- Email: hedaetul.official@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- GitHub: [Your GitHub Profile](https://github.com/your-username)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
