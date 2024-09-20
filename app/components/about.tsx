@@ -19,7 +19,7 @@ const About = () => (
         </div>
         <div className='lg:w-1/2'>
           <h2 className='text-4xl font-bold mb-12 text-gray-800'>
-            Hi there, I'm Hedaetul Islam
+            Hi there, I&apos;m Hedaetul Islam
           </h2>
           <p className='text-gray-600 text-lg leading-relaxed mb-6'>
             I am a skilled web developer specializing in front-end technologies,
@@ -33,7 +33,7 @@ const About = () => (
             learning to stay updated with the latest industry trends.
           </p>
           <p className='text-gray-700 text-lg leading-relaxed'>
-            🌱 I’m currently learning Express.js
+            🌱 I&apos;m currently learning Express.js
           </p>
         </div>
       </div>

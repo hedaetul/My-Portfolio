@@ -16,7 +16,7 @@ const Contact = () => (
             Get in touch
           </h2>
           <p className='text-gray-600 mb-6'>
-            I'm currently available to take on new projects, so feel free to
+            I&apos;m currently available to take on new projects, so feel free to
             send me a message about anything that you want to run past me. You
             can contact anytime at 24/7
           </p>
