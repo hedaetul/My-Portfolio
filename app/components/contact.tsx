@@ -11,7 +11,7 @@ const Contact = () => (
     <div className='container'>
       <div className='flex flex-col md:flex-row justify-between items-start'>
         <div className='md:w-1/2 mb-8 md:mb-0 pr-8'>
-          <p className='text-indigo-600 font-semibold mb-2'>- LET'S CONNECT</p>
+          <p className='text-indigo-600 font-semibold mb-2'>- LET&apos;S CONNECT</p>
           <h2 className='text-4xl font-bold mb-6 text-gray-800'>
             Get in touch
           </h2>
