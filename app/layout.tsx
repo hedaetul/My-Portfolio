@@ -24,9 +24,7 @@ export const metadata: Metadata = {
     ],
   },
   icons: {
-    icon: '/favicon.ico',
-    apple: '/apple-touch-icon.png', // Optional: for Apple devices
-    shortcut: '/favicon.ico', // Optional: for quick-launch icons
+    icon: '/app/favicon.ico',
   },
   robots: {
     index: true,
