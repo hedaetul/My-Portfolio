@@ -1,6 +1,6 @@
 'use client';
 
-import Hedaetul from '@/dist/AvatarMaker.png';
+import Hedaetul from '@/dist/avatar.png';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import {
