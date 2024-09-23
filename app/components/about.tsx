@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const About = () => (
   <section
     id='about'
@@ -13,9 +15,11 @@ const About = () => (
             Hedaetul Islam
           </h3>
           <p className='text-xl text-indigo-900 mb-6'>Web Developer</p>
-          <button className='bg-indigo-900 text-white px-6 py-3 rounded-lg hover:bg-indigo-800 transition-colors duration-200'>
-            GOT A PROJECT?
-          </button>
+          <Link href='mailto:hedaetul.oficial@gmail.com'>
+            <button className='bg-indigo-900 text-white px-6 py-3 rounded-lg hover:bg-indigo-800 transition-colors duration-200'>
+              GOT A PROJECT?
+            </button>
+          </Link>
         </div>
         <div className='lg:w-1/2'>
           <h2 className='text-4xl font-bold mb-12 text-gray-800'>
@@ -48,7 +52,6 @@ const About = () => (
           text='PROJECTS COMPLETED'
           bgColor='bg-orange-100'
         />
-       
       </div>
     </div>
   </section>

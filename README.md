@@ -35,18 +35,18 @@ This project is my personal portfolio website built with Next.js and styled usin
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   ```bash
+   git clone https://github.com/hedaetul/portfolio.git
+   cd portfolio
    ```
 
 2. Install dependencies:
-   ```
+   ```bash
    pnpm install
    ```
 
 3. Run the development server:
-   ```
+   ```bash
    pnpm dev
    ```
 
